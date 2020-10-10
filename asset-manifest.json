@@ -1,0 +1,38 @@
+{
+  "files": {
+    "home-page.css": "/static/css/home-page.b9d9afa3.chunk.css",
+    "home-page.js": "/static/js/home-page.772eba25.chunk.js",
+    "home-page.js.map": "/static/js/home-page.772eba25.chunk.js.map",
+    "main.js": "/static/js/main.4cc00cd5.chunk.js",
+    "main.js.map": "/static/js/main.4cc00cd5.chunk.js.map",
+    "options-page.css": "/static/css/options-page.2df91dd5.chunk.css",
+    "options-page.js": "/static/js/options-page.69960983.chunk.js",
+    "options-page.js.map": "/static/js/options-page.69960983.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2200b12.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2200b12.js.map",
+    "static/js/4.e9166588.chunk.js": "/static/js/4.e9166588.chunk.js",
+    "static/js/4.e9166588.chunk.js.map": "/static/js/4.e9166588.chunk.js.map",
+    "static/js/5.ca5b8a8c.chunk.js": "/static/js/5.ca5b8a8c.chunk.js",
+    "static/js/5.ca5b8a8c.chunk.js.map": "/static/js/5.ca5b8a8c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.12a6eba2454801b7c229d793cdd61feb.js": "/precache-manifest.12a6eba2454801b7c229d793cdd61feb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/home-page.b9d9afa3.chunk.css.map": "/static/css/home-page.b9d9afa3.chunk.css.map",
+    "static/css/options-page.2df91dd5.chunk.css.map": "/static/css/options-page.2df91dd5.chunk.css.map",
+    "static/js/4.e9166588.chunk.js.LICENSE.txt": "/static/js/4.e9166588.chunk.js.LICENSE.txt",
+    "static/media/dvig.jpg": "/static/media/dvig.9fc66bf8.jpg",
+    "static/media/gbc.jpg": "/static/media/gbc.64ae3bfe.jpg",
+    "static/media/gbo.jpg": "/static/media/gbo.62885464.jpg",
+    "static/media/hod.jpg": "/static/media/hod.66ca5746.jpg",
+    "static/media/logo.jpg": "/static/media/logo.26461091.jpg",
+    "static/media/main.jpg": "/static/media/main.94d9b0b7.jpg",
+    "static/media/HomePage.module.css": "/static/media/tires.d5090a55.jpg",
+    "static/media/tnvd.jpg": "/static/media/tnvd.d5db01e4.jpg",
+    "static/media/turbo.jpg": "/static/media/turbo.9552b845.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2200b12.js",
+    "static/js/4.e9166588.chunk.js",
+    "static/js/main.4cc00cd5.chunk.js"
+  ]
+}
